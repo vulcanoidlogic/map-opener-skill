@@ -1,0 +1,1 @@
+(Open map|Show map|Display map)(?P<text>.*)
