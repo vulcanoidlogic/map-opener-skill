@@ -1,1 +1,1 @@
-(Open map|Show map|Display map)(?P<text>.*)
+(open map|show map|display map|message)(?P<text>.*)
